@@ -1,6 +1,11 @@
 ```
 It is Dice game to play this some instruction there to win game.
 ```
+```
+Click to play this Game:
+https://vigilant-bose-7c6b78.netlify.com/
+```
+
 
 > Instruction :-
 
