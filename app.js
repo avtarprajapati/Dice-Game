@@ -10,7 +10,7 @@ document.querySelector('.btn-roll').addEventListener('click', () => {
         // display dice
         var DiceDom = document.querySelector('.dice');
         DiceDom.style.display = 'block'
-        DiceDom.src = `dice-${dice}.png`;
+        DiceDom.src = `./diceImg/dice-${dice}.png`;
 
         // update score if not equal to 1
         if (dice !== 1) {
